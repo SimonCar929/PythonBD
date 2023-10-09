@@ -1,0 +1,29 @@
+
+Una backdoor è un metodo utilizzato per ottenere accessi (spesso non autorizzati) e poterne usufruire a propria discrezione.
+
+E' pericolosa per una serie di motivi:
+
+Accesso Non Autorizzato: Una backdoor fornisce accesso non autorizzato a un sistema informatico o a un'applicazione software. Questo accesso non autorizzato permette a chiunque con conoscenza della backdoor di aggirare le normali misure di autenticazione e sicurezza. Tale accesso può portare a violazioni dei dati, furti o manomissioni.
+
+Furto di Dati: Gli attaccanti possono utilizzare le backdoor per rubare dati sensibili, come informazioni personali, record finanziari, o informazioni classificate. Questi dati rubati possono essere sfruttati per guadagni finanziari, furto di identità ecc.
+
+Distribuzione di Malware: Le backdoor possono essere utilizzate per distribuire malware, tra cui virus, worm e ransomware, nei sistemi compromessi. Una volta all'interno di un sistema, il malware può propagarsi, danneggiare i dati e compromettere l'integrità del sistema.
+
+Spionaggio e Sorveglianza: Le backdoor possono consentire la sorveglianza e lo spionaggio a distanza. Gli attaccanti possono ottenere accesso non autorizzato a webcam, microfoni e altri sensori su un dispositivo, consentendo loro di monitorare e registrare le attività, le conversazioni o l'ambiente di un utente senza il loro consenso o conoscenza.
+
+Controllo dei Sistemi: Le backdoor possono fornire il controllo su sistemi o reti, consentendo agli attaccanti di manipolarli per scopi maliziosi. Questo controllo può essere utilizzato per lanciare attacchi distribuiti di negazione del servizio (DDoS), interrompere l'infrastruttura critica o compromettere la disponibilità dei servizi.
+
+Persistenza: Le backdoor possono essere progettate per rimanere indisturbate per lunghi periodi, consentendo agli attaccanti di mantenere l'accesso a un sistema o a una rete compromessa nel tempo. Questa persistenza rende difficile individuare e rimuovere la backdoor.
+
+Sfruttamento di Vulnerabilità: Le backdoor sfruttano spesso vulnerabilità del software, come debolezze nella sicurezza o configurazioni errate. Una volta che gli attaccanti hanno accesso attraverso una backdoor, possono usarla per aumentare i privilegi e sfruttare ulteriori vulnerabilità.
+
+Azioni Amministrative Non Autorizzate: Le backdoor possono concedere agli attaccanti l'accesso amministrativo o con privilegi a un sistema o a una rete. Ciò può portare a modifiche di configurazione non autorizzate, manipolazione dell'applicazione o danni all'infrastruttura critica.
+
+Problemi di Fiducia e Integrità: La presenza di una backdoor mina la fiducia nella sicurezza e nell'integrità di un sistema o di un software. Gli utenti e le organizzazioni si affidano all'aspettativa che i loro sistemi siano sicuri e che i dati siano protetti. Le backdoor violano questa fiducia.
+
+Questioni Legali ed Etiche: Sviluppare, distribuire o utilizzare backdoor può essere illegale ed eticamente discutibile. Molti paesi hanno leggi contro l'accesso non autorizzato, l'hacking e l'espionaggio. Individui o organizzazioni responsabili della creazione o dell'uso di backdoor possono affrontare conseguenze legali.
+
+In sintesi, le backdoor rappresentano rischi significativi per la sicurezza, fornendo accesso non autorizzato, consentendo il furto di dati e la distribuzione di malware, permettendo spionaggio e sorveglianza e compromettendo l'integrità del sistema. La loro presenza può comportare conseguenze gravi per individui, organizzazioni e la società nel complesso. Pertanto, rilevare e mitigare le backdoor è un aspetto fondamentale della sicurezza informatica.
+
+Nel primo codice avviene il primo tentativo di connessione al client, in caso di VERO otterrà tutte le informazioni sul sistema e varie directory
+Nel secondo codice vi è una situazione di stabilità in quanto è possibile accedere tramite software alla backdoor e filtrare le informazioni di interesse.
